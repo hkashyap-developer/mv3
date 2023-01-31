@@ -6,7 +6,7 @@ import About from '../src/Pages/About/About.jsx';
 import Services from '../src/Pages/Services/Services.jsx';
 import Contact from '../src/Pages/Contact/Contact.jsx';
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
+import { HashRouter as Router, Route, Routes } from 'react-router-dom'
 
 function App() {
   return (
