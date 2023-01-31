@@ -15,7 +15,7 @@ function App() {
       <Router basename="/mv3">
       <MainNav />        
         <Routes>
-          <Route exact path="/mv3" element={<Home/>}/>
+          <Route exact path="/" element={<Home/>}/>
           <Route exact path="/about" element={<About/>}/>
           <Route exact path="/services" element={<Services/>}/>
           <Route exact path="/contact" element={<Contact/>}/>                    
