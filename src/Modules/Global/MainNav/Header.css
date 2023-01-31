@@ -1,0 +1,12 @@
+.mainNav-menu li {
+    display: inline-block;
+    margin-left: 20px;
+    cursor:pointer; 
+}
+.mainNavInrBx {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:0px 20px; 
+
+}
